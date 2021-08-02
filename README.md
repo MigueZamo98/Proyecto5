@@ -2,7 +2,7 @@
 
 ### Resultados de la primera simulación
 
-![](https://github.com/MigueZamo98/Proyecto4/blob/main/simu1.png)
+![](https://github.com/MigueZamo98/Proyecto5/blob/main/simu1.png)
 
 ### Analizando la primera simulación
 
@@ -10,7 +10,7 @@ Utilizando en la simulación con $\nu = 7.25$ como el total de servicios por min
 
 ### Resultados de la segunda simulación
 
-![](https://github.com/MigueZamo98/Proyecto4/blob/main/simu2.png)
+![](https://github.com/MigueZamo98/Proyecto5/blob/main/simu2.png)
 
 ### Analizando la segunda simulación
 
@@ -18,7 +18,7 @@ Utilizando en la simulación con $\nu = 7$ con un servidor menor, es decir un to
 
 ### Resultados de la tercera simulación
 
-![](https://github.com/MigueZamo98/Proyecto4/blob/main/simu3.png)
+![](https://github.com/MigueZamo98/Proyecto5/blob/main/simu3.png)
 
 ### Analizando la tercera simulación
 
